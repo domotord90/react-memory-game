@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/github.io/react-memory-game/static/css/main.6122a070.chunk.css",
-    "main.js": "/github.io/react-memory-game/static/js/main.df4ad747.chunk.js",
-    "main.js.map": "/github.io/react-memory-game/static/js/main.df4ad747.chunk.js.map",
-    "runtime-main.js": "/github.io/react-memory-game/static/js/runtime-main.083dda1b.js",
-    "runtime-main.js.map": "/github.io/react-memory-game/static/js/runtime-main.083dda1b.js.map",
-    "static/js/2.8785c6f2.chunk.js": "/github.io/react-memory-game/static/js/2.8785c6f2.chunk.js",
-    "static/js/2.8785c6f2.chunk.js.map": "/github.io/react-memory-game/static/js/2.8785c6f2.chunk.js.map",
-    "index.html": "/github.io/react-memory-game/index.html",
-    "precache-manifest.59cb6edea85dbe3e3fedfa351f109ef5.js": "/github.io/react-memory-game/precache-manifest.59cb6edea85dbe3e3fedfa351f109ef5.js",
-    "service-worker.js": "/github.io/react-memory-game/service-worker.js",
-    "static/css/main.6122a070.chunk.css.map": "/github.io/react-memory-game/static/css/main.6122a070.chunk.css.map"
+    "main.css": "./static/css/main.6122a070.chunk.css",
+    "main.js": "./static/js/main.df4ad747.chunk.js",
+    "main.js.map": "./static/js/main.df4ad747.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.76395ee5.js",
+    "runtime-main.js.map": "./static/js/runtime-main.76395ee5.js.map",
+    "static/js/2.8785c6f2.chunk.js": "./static/js/2.8785c6f2.chunk.js",
+    "static/js/2.8785c6f2.chunk.js.map": "./static/js/2.8785c6f2.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.afe7f47009e726986318be610f8121c8.js": "./precache-manifest.afe7f47009e726986318be610f8121c8.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.6122a070.chunk.css.map": "./static/css/main.6122a070.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.083dda1b.js",
+    "static/js/runtime-main.76395ee5.js",
     "static/js/2.8785c6f2.chunk.js",
     "static/css/main.6122a070.chunk.css",
     "static/js/main.df4ad747.chunk.js"
