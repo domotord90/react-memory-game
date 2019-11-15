@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Rock+Salt&display=swap");
+
+.header-container {
+  background: #69546b;
+  width: 100%;
+  text-align: center;
+}
+
+.header-title {
+  font-family: "Rock Salt", cursive;
+  font-size: 36px;
+  color: #999900;
+  animation-name: title-flip;
+  animation-duration: 2s;
+}
+
+@keyframes title-flip {
+  0% {
+    transform: scale(1, 1);
+  }
+  50% {
+    transform: scale(-1, 1);
+  }
+  100% {
+    transform: scale(1, 1);
+  }
+}
