@@ -1,6 +1,6 @@
 import React from "react";
 
-import "./NewGame.css";
+import "../styles/NewGame.css";
 
 const NewGame = ({
   newGame,

@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 
-import "./CardGame.css";
+import "../styles/CardGame.css";
 
 const CardGame = ({
   newGame,

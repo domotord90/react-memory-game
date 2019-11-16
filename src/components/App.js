@@ -4,7 +4,7 @@ import Header from "./Header";
 import NewGame from "./NewGame";
 import CardGame from "./CardGame";
 
-import "./App.css";
+import "../styles/App.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faHeart,
