@@ -7,7 +7,7 @@
 .info-container {
   display: flex;
   font-size: 36px;
-  justify-content: space-evenly;
+  /* justify-content: space-evenly; */
   background: #999900;
   color: #33827b;
   font-family: "Carter One", cursive;
@@ -16,6 +16,7 @@
 
 .info-difficulty {
   margin: 0;
+  width: 33.3333%;
 }
 
 .info-moves {
@@ -23,10 +24,13 @@
   border-left: 1px solid black;
   border-right: 1px solid black;
   padding: 0 10px;
+  width: 33.33%;
 }
 
 .info-time {
   margin: 0;
+  padding: 0 5px;
+  width: 33.33%;
 }
 
 .cards-container {
