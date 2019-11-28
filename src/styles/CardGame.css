@@ -40,14 +40,14 @@
   margin-top: 3.125rem;
 }
 
-@media screen and (max-width: 1280px) and (max-height: 720px) {
+/* @media screen and (max-width: 1280px) and (max-height: 720px) {
   .cards-container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     row-gap: 0.9375rem;
     justify-items: center;
     margin-top: 1.25rem;
-  }
+  } */
 }
 
 .cards-easy .card-flip-container,
@@ -163,11 +163,11 @@
   margin-top: 6.25rem;
 }
 
-@media screen and (max-width: 1280px) and (max-height: 720px) {
+/* @media screen and (max-width: 1280px) and (max-height: 720px) {
   .lost-container {
     margin-top: 2.5rem;
   }
-}
+} */
 
 .thumbs-up {
   font-size: 12.5rem;
